@@ -1,0 +1,9 @@
+{
+  "title": "Curiosidad de prueba",
+  "channel": "curiosidades",
+  "scenes": [
+    { "id": "s1", "text": "¿Sabías que los pulpos tienen tres corazones?" },
+    { "id": "s2", "text": "Dos bombean sangre a las branquias y el tercero al resto del cuerpo." },
+    { "id": "s3", "text": "Y cuando nadan, el corazón principal se detiene, por eso prefieren caminar." }
+  ]
+}
